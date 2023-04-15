@@ -21,7 +21,7 @@
 
 - git init
 
-- git add*
+- git add. para  enviar adicionar todos os arquivos da pasta local
 
 - git commit -m "Nome de explicação da alteração"
 
@@ -29,6 +29,6 @@
 
 - git status: mostrar as pendencias do repositório
 
-- git push origin master: empurar para branch master 
+- git push origin main: empurar para branch master os commits locais
 
   
